@@ -1,0 +1,24 @@
+{
+    "pages": [
+        {
+            "name": "Getting Started",
+            "alias": "getting-started",
+            "floorplan": {}
+        },
+        {
+            "name": "Contact Us",
+            "alias": "contact-us",
+            "floorplan": {}
+        },
+        {
+            "name": "About Us",
+            "alias": "about-us",
+            "floorplan": {}
+        },
+        {
+            "name": "Contact Us",
+            "alias": "contact-us",
+            "floorplan": {}
+        }
+    ]
+}
